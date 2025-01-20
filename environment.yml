@@ -1,0 +1,8 @@
+name: programming-notes
+channels:
+	- conda-forge
+	- bioconda
+dependencies:
+	- python=3.12.8
+	- pip
+	- samtools=99.99.9.9.9
