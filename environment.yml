@@ -4,5 +4,6 @@ channels:
 	- bioconda
 dependencies:
 	- python=3.12.8
-	- pip
+	- conda=24.9.1
+	- pip=24.2
 	- samtools=99.99.9.9.9
